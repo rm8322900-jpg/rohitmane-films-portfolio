@@ -1,17 +1,19 @@
-ROHIT MANE FILMS — PORTFOLIO WEBSITE
+ROHIT MANE FILMS - PORTFOLIO STARTER
 
 Files:
-- index.html
-- style.css
-- script.js
+- index.html: page content
+- style.css: design/styles
+- script.js: small mobile menu interaction
 
-How to publish/update on GitHub Pages:
-1. Open your repository: rohitmane-films-portfolio
-2. Choose Add file > Upload files.
-3. Upload these three files and replace existing files if asked.
-4. Click Commit changes.
-5. Wait 1–3 minutes, then refresh:
-   https://rm8322900-jpg.github.io/rohitmane-films-portfolio/
+Publish free using GitHub Pages:
+1. Create a PUBLIC repository on github.com.
+2. Upload all three files to the repository root.
+3. Repository Settings -> Pages.
+4. Source: Deploy from a branch; Branch: main; Folder: /(root); Save.
+5. Wait a few minutes for the published URL.
 
-The “View Video Portfolio” button opens your Google Drive folder.
-For public viewing, set that folder's General access to “Anyone with the link” and role “Viewer”.
+Customize:
+- Replace image URLs in style.css with your own stills if desired.
+- Replace placeholder tile links with your own project/video URLs.
+- Contact links and email are currently filled with the known details.
+- Google Fonts and Unsplash images require internet access to display.
