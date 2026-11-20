@@ -1,19 +1,8 @@
-ROHIT MANE FILMS - PORTFOLIO STARTER
+ROHIT MANE FILMS — LIGHT PORTFOLIO
 
-Files:
-- index.html: page content
-- style.css: design/styles
-- script.js: small mobile menu interaction
+Upload ALL 5 files from this ZIP into the ROOT of your GitHub repository (not the ZIP itself).
+Files: index.html, style.css, rohit-camera.jpg, rohit-editing.jpg, rohit-profile.jpg
 
-Publish free using GitHub Pages:
-1. Create a PUBLIC repository on github.com.
-2. Upload all three files to the repository root.
-3. Repository Settings -> Pages.
-4. Source: Deploy from a branch; Branch: main; Folder: /(root); Save.
-5. Wait a few minutes for the published URL.
+Important: Do not use the old starter folder. After committing, wait for GitHub Actions green check and refresh the live site.
 
-Customize:
-- Replace image URLs in style.css with your own stills if desired.
-- Replace placeholder tile links with your own project/video URLs.
-- Contact links and email are currently filled with the known details.
-- Google Fonts and Unsplash images require internet access to display.
+The Google Drive video portfolio button opens your shared folder. To allow visitors to view it, configure the folder access as Anyone with the link - Viewer.
