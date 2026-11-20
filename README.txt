@@ -1,7 +1,17 @@
-ROHIT MANE FILMS PORTFOLIO UPDATE
+ROHIT MANE FILMS — PORTFOLIO WEBSITE
 
-This update adds a Filmmaker / Cinematographer / Video Editor hero identity and a Google Drive embedded video collection section using your supplied folder link. It also updates the About text to emphasize editing.
+Files:
+- index.html
+- style.css
+- script.js
 
-Upload and replace index.html and style.css in your existing GitHub repository. Keep script.js unchanged. Commit changes. GitHub Pages redeploys automatically.
+How to publish/update on GitHub Pages:
+1. Open your repository: rohitmane-films-portfolio
+2. Choose Add file > Upload files.
+3. Upload these three files and replace existing files if asked.
+4. Click Commit changes.
+5. Wait 1–3 minutes, then refresh:
+   https://rm8322900-jpg.github.io/rohitmane-films-portfolio/
 
-The embedded folder preview depends on Google Drive sharing settings and browser behavior. A direct folder link is included as a fallback.
+The “View Video Portfolio” button opens your Google Drive folder.
+For public viewing, set that folder's General access to “Anyone with the link” and role “Viewer”.

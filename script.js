@@ -1,1 +1,1 @@
-const menuButton=document.querySelector('.menu');menuButton?.addEventListener('click',()=>{const nav=document.querySelector('nav');if(!nav)return;nav.style.display=nav.style.display==='flex'?'none':'flex';nav.style.position='absolute';nav.style.top='70px';nav.style.left='0';nav.style.right='0';nav.style.background='#111';nav.style.padding='22px';nav.style.flexDirection='column';nav.style.alignItems='center';});
+// Smooth in-page navigation is handled by CSS. This file is ready for future enhancements.
